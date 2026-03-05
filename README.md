@@ -60,7 +60,7 @@ I care about performance, privacy (client-side everything when possible), and de
 ### 📬 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/rabihzsiddiqui)
-- 🌐 [Portfolio](https://YOUR_PORTFOLIO_URL) <!-- remove if you don't have one -->
+- 🌐 [Portfolio]((https://rabihs.vercel.app/)) <!-- remove if you don't have one -->
 
 ---
 
