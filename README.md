@@ -10,9 +10,9 @@ So now I build browser-native tools, tinker with audio/video pipelines, and nerd
 
 ### 🔧 What I'm Working On
 
-**[audoRa](https://github.com/rabihzsiddiqui/audoRa)** -- A browser-native audio extraction tool that converts video to MP3 entirely client-side. No uploads, no servers, no waiting. Built with TypeScript, Next.js, Tailwind CSS v4, and ffmpeg.wasm. Tested with Vitest because untested code is just a suggestion.
+**[audoRa](https://audora-audio.vercel.app/)** -- A browser-native audio extraction tool that converts video to MP3 entirely client-side. No uploads, no servers, no waiting. Built with TypeScript, Next.js, Tailwind CSS v4, and ffmpeg.wasm. Tested with Vitest because untested code is just a suggestion.
 
-**[compResso](https://github.com/rabihzsiddiqui/compResso)** -- A browser-native video compressor. Drop a file in, get a lighter one out, all without leaving your browser. Built with TypeScript, Next.js, Tailwind CSS v4, and ffmpeg.wasm. Tested with Vitest because refreshing localhost:3000 is not a valid testing strategy.
+**[compResso](https://compresso-beta.vercel.app/)** -- A browser-native video compressor. Drop a file in, get a lighter one out, all without leaving your browser. Built with TypeScript, Next.js, Tailwind CSS v4, and ffmpeg.wasm. Tested with Vitest because refreshing localhost:3000 is not a valid testing strategy.
 
 > *More projects brewing. Stay tuned.*
 
