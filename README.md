@@ -53,7 +53,7 @@ So now I build browser-native tools, tinker with audio/video pipelines, and nerd
 
 ### 🧠 The Backstory
 
-Cognitive Science taught me that the best interfaces disappear -- they let people think about their *goals*, not the tool. That stuck with me through every role I've had, from research labs to QA floors, and it shapes how I build software today.
+Cognitive Science taught me that the best interfaces become a part of you; you don't realize that it is a tool, but something intuitive that flows. That stuck with me through every role I've had, from research labs to QA floors, and it shapes how I build software today.
 
 I care about performance, privacy (client-side everything when possible), and developer experience that doesn't make you want to close your laptop.
 
