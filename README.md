@@ -38,19 +38,6 @@ So now I build browser-native tools, tinker with audio/video pipelines, and nerd
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rabihzsiddiqui&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabihzsiddiqui&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabihzsiddiqui&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🧠 The Backstory
 
 Cognitive Science taught me that the best interfaces become a part of you; you don't realize that it is a tool, but something intuitive that flows. That stuck with me through every role I've had, from research labs to QA floors, and it shapes how I build software today.
