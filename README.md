@@ -2,9 +2,9 @@
 
 **Cognitive Science grad turned builder of things that run in your browser.**
 
-I studied how minds work at UC San Diego, then spent time poking at products from the inside -- testing VR prototypes at Meta Reality Labs, breaking things (on purpose) at Google, and doing QA deep-dives at KIWI design. Somewhere along the way I realized I'd rather be *making* the things than just testing them.
+I studied how minds work at UC San Diego, then spent time poking at products from the inside; testing VR prototypes at Meta Reality Labs, breaking things (on purpose) at Google, and doing QA deep-dives at KIWI design. Somewhere along the way I realized I want to provide people with the best experiences that I would also want as a user.
 
-So now I build browser-native tools, tinker with audio/video pipelines, and nerd out over clean DX. If it runs client-side and doesn't need a server, I'm probably interested.
+So now I experiment with building browser-native tools that I would want to use myself. I also want to keep it simple, usable, and most importantly, FREE!. If it runs client-side and doesn't need a server, I'm probably interested.
 
 ---
 
@@ -40,7 +40,7 @@ So now I build browser-native tools, tinker with audio/video pipelines, and nerd
 
 ### 🧠 The Backstory
 
-Cognitive Science taught me that the best interfaces become a part of you; you don't realize that it is a tool, but something intuitive that flows. That stuck with me through every role I've had, from research labs to QA floors, and it shapes how I build software today.
+Cognitive Science taught me that the best interfaces become a part of you; you don't realize that it is a tool, but something intuitive that flows. That stuck with me through every experience I've had, from research labs to the comfort of my home, and it shapes how I work with stuff today.
 
 I care about performance, privacy (client-side everything when possible), and developer experience that doesn't make you want to close your laptop.
 
