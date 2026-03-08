@@ -55,5 +55,5 @@ I care about performance, privacy (client-side everything when possible), and de
 ---
 
 <p align="center">
-  <i>"he actually upskilled."</i>
+  <i>"he actually upskilled"</i>
 </p>
