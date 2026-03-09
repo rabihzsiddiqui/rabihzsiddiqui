@@ -10,11 +10,11 @@ So now I experiment with building browser-native tools that I would want to use 
 
 ### 🔧 What I'm Working On
 
-**[audoRa](https://audora-audio.vercel.app/)** -- A browser-native audio extraction tool that converts video to MP3 entirely client-side. No uploads, no servers, no waiting. Built with TypeScript, Next.js, Tailwind CSS v4, and ffmpeg.wasm. Tested with Vitest because untested code is just a suggestion.
+**[audoRa](https://audora-audio.vercel.app/)** -- A browser-native audio extraction tool that turns video into MP3 entirely client-side. No uploads, no servers, no waiting. Built with TypeScript, Next.js, Tailwind CSS v4, and ffmpeg.wasm. Tested with Vitest because untested code is just a suggestion.
 
 **[compResso](https://compresso-beta.vercel.app/)** -- A browser-native video compressor. Drop a file in, get a lighter one out, all without leaving your browser. Built with TypeScript, Next.js, Tailwind CSS v4, and ffmpeg.wasm. Tested with Vitest because refreshing localhost:3000 is not a valid testing strategy.
 
-**[spectRa](https://spectra-oculi.vercel.app/)** -- Still working on it. Meant to be a client-side color accessibility tool that goes beyond standard WCAG contrast ratios. it simulates how color pairings look under different types of color vision deficiency (CVD), generates accessible palette alternatives, and grounds everything in real vision science. built by someone who's colorblind, for designers who want to build for everyone.
+**[spectRa](https://spectra-oculi.vercel.app/)** -- Still working on it. A browser-native color accessibility tool for people who think basic accessibility checks are just the starting point. Test whether color combinations are actually distinguishable, simulate multiple types of color vision deficiency, analyze full palettes, and upload images to see how they really hold up. Grounded in vision science, built for designers who want accessibility to mean something.
 > *More projects brewing. Stay tuned.*
 
 ---
