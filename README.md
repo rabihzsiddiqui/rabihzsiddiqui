@@ -16,7 +16,7 @@ So now I experiment with building browser-native tools that I would want to use 
 
 **[spectRa](https://spectra-oculi.vercel.app/)** -- Still working on it. A browser-native color accessibility tool for people who think basic accessibility checks are just the starting point. Test whether color combinations are actually distinguishable, simulate multiple types of color vision deficiency, analyze full palettes, and upload images to see how they really hold up. Grounded in vision science, built for designers who want accessibility to mean something.
 
-**[Nyra]** -- Very much a work in progress. Experimenting with a potential design of a modern interpretation of a classic companion. My end goal is to come up with a clean UI for a potential assistant that is more immersive.
+**[Nyra](https://nyra-prototype.vercel.app/)** -- Very much a work in progress. Experimenting with a potential design of a modern interpretation of a classic companion. My end goal is to come up with a clean UI for a potential assistant that is more immersive.
 > *More projects brewing. Stay tuned.*
 
 ---
@@ -28,16 +28,26 @@ So now I experiment with building browser-native tools that I would want to use 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 
 **Styling & UI**  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+**Graphics & Browser APIs**  
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
+![Canvas API](https://img.shields.io/badge/Canvas_API-E34F26?style=flat-square&logo=html5&logoColor=white)
+
 **Tools & Testing**  
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![ffmpeg](https://img.shields.io/badge/ffmpeg.wasm-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+
+**Accessibility**  
+![WCAG](https://img.shields.io/badge/WCAG-005A9C?style=flat-square&logo=w3c&logoColor=white)
 
 ---
 
@@ -52,7 +62,7 @@ I care about performance, privacy (client-side everything when possible), and de
 ### 📬 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rabihsiddiqui/)
-- 🌐 [Portfolio](https://rabih.app/) <!-- remove if you don't have one -->
+- 🌐 [Portfolio](https://rabih.app/)
 
 ---
 
