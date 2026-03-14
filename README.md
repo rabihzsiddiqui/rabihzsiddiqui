@@ -17,6 +17,9 @@ So now I experiment with building browser-native tools that I would want to use 
 **[spectRa](https://spectra-oculi.vercel.app/)** -- Still working on it. A browser-native color accessibility tool for people who think basic accessibility checks are just the starting point. Test whether color combinations are actually distinguishable, simulate multiple types of color vision deficiency, analyze full palettes, and upload images to see how they really hold up. Grounded in vision science, built for designers who want accessibility to mean something.
 
 **[Nyra](https://nyra-prototype.vercel.app/)** -- Very much a work in progress. Experimenting with a potential design of a modern interpretation of a classic companion. My end goal is to come up with a clean UI for a potential assistant that is more immersive.
+
+**[pomodoRo](https://romodoro.vercel.app/)** -- A simple, configurable pomodoro timer with dynamic favicon. You don't need to be on the page to see how much time you have left!
+
 > *More projects brewing. Stay tuned.*
 
 ---
