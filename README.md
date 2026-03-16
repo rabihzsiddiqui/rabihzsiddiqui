@@ -10,7 +10,7 @@ So now I experiment with building browser-native tools that I would want to use 
 
 ### 🔧 What I'm Working On
 
-**[audoRa](https://audora-audio.vercel.app/)** -- A browser-native audio extraction tool that turns video into MP3 entirely client-side. No uploads, no servers, no waiting. Built with TypeScript, Next.js, Tailwind CSS v4, and ffmpeg.wasm. Tested with Vitest because untested code is just a suggestion.
+**[audoRa](https://audora-audio.vercel.app/)** -- A browser-native audio extraction tool that turns video into MP3 entirely client-side. No uploads, no servers, no waiting. Built with TypeScript, Next.js, Tailwind CSS v4, and ffmpeg.wasm. Used Vitest to test.
 
 **[compResso](https://compresso-beta.vercel.app/)** -- A browser-native video compressor. Drop a file in, get a lighter one out, all without leaving your browser. Built with TypeScript, Next.js, Tailwind CSS v4, and ffmpeg.wasm. Tested with Vitest because refreshing localhost:3000 is not a valid testing strategy.
 
